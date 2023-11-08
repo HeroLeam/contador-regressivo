@@ -2,7 +2,7 @@ const theDate = 19;
 const theMounth = "dec";
 const theHour = "17:18:00";
 const theYear = 2023;
-const dateString = `${theMounth} ${theDate}, ${theYear} ${theYear}`;
+const dateString = `${theMounth} ${theDate}, ${theYear} ${theHour}`;
 
 var deadline = new Date(dateString);
 

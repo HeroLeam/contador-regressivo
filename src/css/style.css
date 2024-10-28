@@ -8,7 +8,10 @@ body {
 
 #clockdiv {
     margin: auto;
+    padding: 10px;
     color: #fff;
+    border: 1px solid white;
+    border-radius: 10px;
     display: inline-block;
     font-weight: 400;
     text-align: center;
